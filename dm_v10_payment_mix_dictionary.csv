@@ -1,0 +1,8 @@
+поле,тип в pandas,тип в DataLens,пример
+order_id,str,Строка,76c6e866289321a7c93b82b54852dc33
+payment_sequential,int64,Целое число,1
+month,str,Дата,2017-01-01
+region,str,Строка,RS
+payment_type,str,Строка,boleto
+installments,int64,Целое число,1
+payment_value,float64,Дробное число,35.95
